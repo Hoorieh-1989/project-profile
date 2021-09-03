@@ -16,7 +16,7 @@ html {
    
 #menu-nav{
     margin-top: 30px;
-    border:solid rgb(145, 14, 145);
+    border:solid rgb(250, 152, 250);
     border-width: 1px;
     height: 20px;
     letter-spacing: 5px;
@@ -71,6 +71,20 @@ p{
     font-weight: 200;
     letter-spacing: 2px;
 }
+#contact-nav{
+    margin-top: 30px;
+    height: 20px;
+    letter-spacing: 6px;
+}
+#mail{
+    color: rgb(105, 42, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#tel{
+        color: rgb(105, 42, 164);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
 .btn {
     display: inline-block;
     margin-top: 70px;
@@ -80,3 +94,22 @@ p{
 .btn:hover{
     color: rgb(228, 153, 73);
 }
+#footer {
+    
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    height: 40px;      
+    width: 960px;  
+margin-bottom: 70px;
+    
+  }
+  #instagram{
+      letter-spacing: 4px;
+      color: rgb(145, 47, 145);
+  }
+  h3{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 16px;
+      color: rgb(159, 35, 159);
+  }
