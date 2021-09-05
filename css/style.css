@@ -66,16 +66,17 @@ h2 {
    
 
 }
-p{
+p{color: rgb(117, 14, 169);
     font-size: 15px;
     font-weight: 200;
-    letter-spacing: 2px;
+    letter-spacing: 8px;
 }
 #contact-nav{
     margin-top: 30px;
     height: 20px;
     letter-spacing: 6px;
 }
+
 #mail{
     color: rgb(105, 42, 164);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -112,4 +113,22 @@ margin-bottom: 70px;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 16px;
       color: rgb(159, 35, 159);
+  }
+  p2 {
+      color: rgb(85, 42, 99);
+      letter-spacing: 0,9px;
+      list-style-type: none;
+      list-style: none;
+
+  }
+
+  input{
+width: 50%;
+margin: 10px 0;
+padding: 9px;
+border-radius:0.5px ;
+border:1px solid green;
+list-style: none;
+letter-spacing: 4px;
+
   }
