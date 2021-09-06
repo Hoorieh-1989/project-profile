@@ -122,13 +122,27 @@ margin-bottom: 70px;
 
   }
 
-  input{
+input{
 width: 50%;
-margin: 10px 0;
+margin:20px 0 ;
 padding: 9px;
-border-radius:0.5px ;
+border-radius:5px ;
 border:1px solid green;
-list-style: none;
-letter-spacing: 4px;
+letter-spacing; 4px;
+  }
 
+label{
+margin-right: 30px;
+color:rgb(98, 16, 98) ;
+letter-spacing: 2px;
+  }
+
+  #msg{
+      padding: 30px;
+  }
+
+  #button{
+      color: purple;
+      background-color: thistle;
+      display:inline-block;
   }
